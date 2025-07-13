@@ -1,0 +1,26 @@
+.app-store-bg {
+  padding: 20px;
+  background-color: #f1f5f9;
+  font-family: 'Roboto', sans-serif;
+}
+
+.app-store-heading {
+  font-size: 28px;
+  text-align: center;
+}
+
+.search-input {
+  display: block;
+  margin: 10px auto;
+  padding: 8px;
+  width: 200px;
+}
+
+.tabs-container,
+.apps-container {
+  list-style-type: none;
+  padding-left: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
